@@ -16,10 +16,10 @@ BDCM2 带有**位置环**、**速度环**、**电流环**，具有过流报警�
 - <u>USART</u>（串口），使用115200通信速率，遵循私有协议，可发送位置、速度指令进行控制。连接上位机可进行PID调参、实时监控电流、速度、位置信息。
 
 
-![SmartDrive_BDCM2_Front](../SmartDrive/img/SmartDrive_BDCM2_Front.png)
+![SmartDrive_BDCM2_Front](img/SmartDrive_BDCM2_Front.png)
 
-![SmartDrive_BDCM2_Back](../SmartDrive/img/SmartDrive_BDCM2_Back.png)
+![SmartDrive_BDCM2_Back](img/SmartDrive_BDCM2_Back.png)
 
-![SmartDrive_BDCM2_left](../SmartDrive/img/SmartDrive_BDCM2_left.png)
+![SmartDrive_BDCM2_left](img/SmartDrive_BDCM2_left.png)
 
-![SmartDrive_BDCM2_right](../SmartDrive/img/SmartDrive_BDCM2_right.png)
+![SmartDrive_BDCM2_right](img/SmartDrive_BDCM2_right.png)
