@@ -1,2 +1,2 @@
 # SmartDrive_BDCM2
-双路直流有刷电机版本的智驱仓库 （Brushed DC Motor Two way -SmartDrive ）
+智驱-双路直流有刷电机版本（SmartDrive - Brushed DC Motor Two way）
